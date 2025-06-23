@@ -36,3 +36,7 @@ Smart city air quality stations
 Educational environmental science projects
 
 Health and workplace safety monitoring
+
+![Image](https://github.com/user-attachments/assets/ea5b1863-fb51-40b6-9bf0-782b6482f63c)
+
+![Image](https://github.com/user-attachments/assets/91b80be5-70ed-46a0-a59d-c702a3d3c22c)
